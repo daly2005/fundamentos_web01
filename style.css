@@ -1,0 +1,26 @@
+body{
+    background-image: url('img/fondo_naranja.jfif');
+}
+button{
+    background-color: black;
+    color: white;
+}
+#section1{
+    background-color: rgba(0, 0, 0, 0.8);
+    border: 3px solid black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+#section2{
+    background-color: rgb(255, 255, 255, 0.6);
+    background-position: 30px;
+    border: 3px solid black;
+}
+#section3{
+    background-color: rgba(255, 120, 58, 0.6);
+    border: 3px solid black;
+}
+#section4{
+    background-color: rgba(255, 255, 255, 0.6);
+    border: 3px solid black;
+}
