@@ -1,26 +1,35 @@
+
 body{
-    background-image: url('img/fondo_naranja.jfif');
-}
-button{
-    background-color: black;
+    background-image: url('img/orange.jfif');
     color: white;
+    font-family: Arial, Helvetica, sans-serif;
 }
-#section1{
+
+#first_section{
     background-color: rgba(0, 0, 0, 0.8);
     border: 3px solid black;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: white;
+    border-radius: 30px;
+    padding: 30px;
 }
-#section2{
-    background-color: rgb(255, 255, 255, 0.6);
-    background-position: 30px;
-    border: 3px solid black;
-}
-#section3{
+
+#second_section{
     background-color: rgba(255, 120, 58, 0.6);
     border: 3px solid black;
+    border-radius: 30px;
+    padding: 30px;
 }
-#section4{
+
+#tirth_section{
     background-color: rgba(255, 255, 255, 0.6);
     border: 3px solid black;
+    border-radius: 30px;
+    padding: 30px;
+    margin-top: 20px;
+    color: black;
+}
+
+.button{
+    background-color: black;
+    color: white;
+    margin-top: 15px;
 }
